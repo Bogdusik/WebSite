@@ -46,3 +46,15 @@ Feel free to reach out via email at [bogdyn6@gmail.com](mailto:bogdyn6@gmail.com
 ## 🌟 Acknowledgments
 
 Thank you for taking the time to explore my portfolio! Your feedback, collaboration, or simply dropping a hello is always welcome. 😊
+
+## 🤝 Contributing
+Contributions are welcome! To suggest a change or report a bug, please [open an issue](https://github.com/Bogdusik/WebSite/issues). If you'd like to make a change yourself:
+
+1. Fork this repository and create a new branch for your feature or fix.
+2. Commit your changes with clear messages.
+3. Open a pull request describing what you've done.
+
+We appreciate your feedback and improvements!
+
+## License
+This project is available under the [MIT License](LICENSE).
