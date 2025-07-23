@@ -1,0 +1,12 @@
+# IDE directories
+.idea/
+*.iml
+
+# macOS specific files
+*.DS_Store
+
+# Temporary files
+*~
+*.swp
+*.tmp
+*.log
