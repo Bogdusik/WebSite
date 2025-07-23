@@ -179,7 +179,7 @@ body {
 }
 
 .container1 {
-    background: url('../images/samurai dark 4k.png') no-repeat center center / cover;
+    background: url('images/samurai dark 4k.png') no-repeat center center / cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -261,7 +261,7 @@ body {
     padding: 20px;
     box-sizing: border-box;
     text-align: center;
-    background: url('../images/samurai dark V2.png') no-repeat center center / cover;
+    background: url('images/samurai dark V2.png') no-repeat center center / cover;
 }
 
 .background-text-container {
@@ -308,7 +308,7 @@ body {
 }
 
 .project-card {
-    background: url('../images/linesred.png') no-repeat center center / cover;
+    background: url('images/linesred.png') no-repeat center center / cover;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
@@ -485,7 +485,7 @@ body {
 }
 
 .card-front {
-    background: url('../images/greycard.jpg') no-repeat center / cover;
+    background: url('images/greycard.jpg') no-repeat center / cover;
     display: flex;
     justify-content: center;
     text-transform: uppercase;
@@ -495,7 +495,7 @@ body {
     color: #FFD700;
 }
 .card-back {
-    background: url('../images/backcard.jpg') no-repeat center / cover;
+    background: url('images/backcard.jpg') no-repeat center / cover;
     color: #fff;
     transform: rotateY(180deg);
     display: flex;
@@ -665,7 +665,7 @@ body {
     width: 400px;
     height: 400px;
     margin: 0 auto;
-    background-image: url('../images/satoshi.png');
+    background-image: url('images/satoshi.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
