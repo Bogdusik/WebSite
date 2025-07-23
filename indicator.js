@@ -1,3 +1,5 @@
+'use strict';
+
 document.addEventListener("DOMContentLoaded", () => {
     const progressLine = document.getElementById("progress-line");
     const percentageText = document.getElementById("loading-percentage");
@@ -30,7 +32,7 @@ const cardsContainer = document.querySelector('.cards-container');
 const indicators = document.querySelectorAll('.indicator');
 
 function centerFirstCard() {
-    const firstCardOffset = cardsContainer.scrollWidth / indicators.length / 1;
+    const firstCardOffset = cardsContainer.scrollWidth / indicators.length;
     cardsContainer.scrollLeft = firstCardOffset;
 }
 
